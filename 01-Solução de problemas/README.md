@@ -1,7 +1,7 @@
 # 01 - Solução de problemas em C#
 
 ---
-## Desafio (ConsumoMedio.cs)
+## Desafio (Consumo Medio)
 Você deve calcular o consumo médio de um automóvel onde será informada a distância total percorrida (em Km) e o total de combustível consumido (em litros).
 
 ## Entrada
@@ -11,7 +11,7 @@ Você receberá dois valores: um valor inteiro X com a distância total percorri
 Exiba o valor que representa o consumo médio do automóvel (3 casas após a vírgula), incluindo no final a mensagem "km/l".
 
 ---
-## Desafio (CodigoDDD.cs)
+## Desafio (Codigo DDD)
 Leia um número inteiro que representa um código de DDD para discagem interurbana. Em seguida, informe à qual cidade o DDD pertence, considerando a tabela abaixo:
 
 |DDD|Destination|
@@ -35,7 +35,7 @@ A entrada consiste de um único valor inteiro.
 Imprima o nome da cidade correspondente ao DDD existente na entrada. Imprima DDD nao cadastrado caso não existir DDD correspondente ao número digitado.
 
 ---
-## Desafio (NotaseMoedas.cs)
+## Desafio (Notas e Moedas)
 Leia um valor de ponto flutuante com duas casas decimais. Este valor representa um valor monetário. A seguir, calcule o menor número de notas e moedas possíveis no qual o valor pode ser decomposto. As notas consideradas são de 100, 50, 20, 10, 5, 2. As moedas possíveis são de 1, 0.50, 0.25, 0.10, 0.05 e 0.01. A seguir mostre a relação de notas necessárias.
 
 ### Entrada 
